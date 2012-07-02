@@ -1,1 +1,4 @@
 repository form of pytbl.com shortest poplib example
+
+popExample.py - leave this alone at first
+popCredentials.py - modify to match your email settings
